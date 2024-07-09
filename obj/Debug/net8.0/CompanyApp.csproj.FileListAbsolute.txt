@@ -1,0 +1,14 @@
+D:\comit_dotnetcore\practises-comit\CompanyApp\obj\Debug\net8.0\CompanyApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\comit_dotnetcore\practises-comit\CompanyApp\obj\Debug\net8.0\CompanyApp.AssemblyInfoInputs.cache
+D:\comit_dotnetcore\practises-comit\CompanyApp\obj\Debug\net8.0\CompanyApp.AssemblyInfo.cs
+D:\comit_dotnetcore\practises-comit\CompanyApp\obj\Debug\net8.0\CompanyApp.csproj.CoreCompileInputs.cache
+D:\comit_dotnetcore\practises-comit\CompanyApp\bin\Debug\net8.0\CompanyApp.exe
+D:\comit_dotnetcore\practises-comit\CompanyApp\bin\Debug\net8.0\CompanyApp.deps.json
+D:\comit_dotnetcore\practises-comit\CompanyApp\bin\Debug\net8.0\CompanyApp.runtimeconfig.json
+D:\comit_dotnetcore\practises-comit\CompanyApp\bin\Debug\net8.0\CompanyApp.dll
+D:\comit_dotnetcore\practises-comit\CompanyApp\bin\Debug\net8.0\CompanyApp.pdb
+D:\comit_dotnetcore\practises-comit\CompanyApp\obj\Debug\net8.0\CompanyApp.dll
+D:\comit_dotnetcore\practises-comit\CompanyApp\obj\Debug\net8.0\refint\CompanyApp.dll
+D:\comit_dotnetcore\practises-comit\CompanyApp\obj\Debug\net8.0\CompanyApp.pdb
+D:\comit_dotnetcore\practises-comit\CompanyApp\obj\Debug\net8.0\CompanyApp.genruntimeconfig.cache
+D:\comit_dotnetcore\practises-comit\CompanyApp\obj\Debug\net8.0\ref\CompanyApp.dll
